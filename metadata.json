@@ -1,0 +1,6 @@
+{
+  "name": "BLAZE STORE",
+  "description": "Premium Bangladesh Digital Subscription & Products Marketplace created by MaHi Al-Moktadir. Features bKash, Nagad, Rocket mobile payments and instant digital delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
